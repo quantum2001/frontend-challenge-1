@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/quantum2001/frontend-challenge-1)
-- Live Site URL: [Add live site URL here](https://quantum2001.github.io/frontend-challenge-1)
+- Solution URL: [https://github.com/quantum2001/frontend-challenge-1](https://github.com/quantum2001/frontend-challenge-1)
+- Live Site URL: [https://quantum2001.github.io/frontend-challenge-1](https://quantum2001.github.io/frontend-challenge-1)
 
 ## My process
 
